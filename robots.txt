@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://kfc-breakfast-menu.vercel.app/sitemap.xml
